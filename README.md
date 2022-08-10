@@ -1,6 +1,8 @@
 ![Image](https://img.shields.io/npm/v/djs-buttons?style=flat-square&color=0091EA)
 ![Image](https://img.shields.io/npm/dt/djs-buttons.svg?style=flat-square&color=0091EA&maxAge=3600) 
+
 #
+
 # 📥 Yüklemek İçin
 ```npm
 npm i djs-buttons
